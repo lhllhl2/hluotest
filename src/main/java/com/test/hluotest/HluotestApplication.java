@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class HluotestApplication {
 
 	public static void main(String[] args) {
-		System.out.println("start123456");
+		System.out.println("startrrr");
 		SpringApplication.run(HluotestApplication.class, args);
 	}
 
